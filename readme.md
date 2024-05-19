@@ -71,7 +71,7 @@
 ## Script
 * What if we need to use intermediate values?
   * Use script
-  * In LUA programming language
+  * In Lua programming language
 * All commands in a script are executed atomically
 * Scripts can be cached on the server using `script load`
 * [script.sql](src%2Fmain%2Fresources%2Fscript.sql)
